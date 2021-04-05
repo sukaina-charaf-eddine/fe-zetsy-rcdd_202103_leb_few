@@ -1,8 +1,7 @@
-/*////////////// Fonts //////////////*/
-
-/* link the web font used for the level 1 heading here */
-
-/*////////// Global Styles //////////*/
+@@font-face {
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
+}
 
 body {
 	background: #F3EBE9;
